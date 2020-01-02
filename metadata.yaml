@@ -1,0 +1,33 @@
+_repo: En-Virginie-episode-de-la-guerre-de-secession-Precede-d-une-etude-sur-l-esclavage-et-les-puni__61008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villiot, Jean de
+    gutenberg_agent_id: '51221'
+    url: http://www.gutenberg.org/2009/agents/51221
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/3772
+    - http://www.gutenberg.org/ebooks/author/39073
+    - http://www.gutenberg.org/ebooks/author/38308
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Séduction et libertinage
+gutenberg_issued: '2019-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61008'
+  lccn: '13016728'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flagellation'
+- !lcsh 'Slavery -- United States'
+- !lcc 'HV'
+- GITenberg
+title: "En Virginie, épisode de la guerre de sécession\r\nPrécédé d'une étude sur\
+  \ l'esclavage et les punitions corporelles en Amérique, et suivi d'une bibliographie\
+  \ raisonnée des principaux ouvrages français et anglais sur la flagellation"
+url: http://www.gutenberg.org/ebooks/61008
